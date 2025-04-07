@@ -1,8 +1,9 @@
 [functions]
-  external_node_modules = ["express"]
-  node_bundler = "esbuild"
+  directory = "api"
+  memory = 128
+  maximum_duration = 10
+
 [[redirects]]
-  force = true
-  from = "/api/*"
-  status = 200
-  to = "/express.js/:splat"
+  from = "/"
+  to = "https://github.com/stepawka-hub/github-readme-stats"
+  status = 301
