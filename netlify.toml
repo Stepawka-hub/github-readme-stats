@@ -1,5 +1,5 @@
 [functions]
-  directory = "api"
+  directory = "./express.js"
   memory = 128
   maximum_duration = 10
 
