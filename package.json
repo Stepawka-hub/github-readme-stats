@@ -8,7 +8,6 @@
     "cards",
     "card-generator"
   ],
-  "main": "netlify/functions/express.js",
   "type": "module",
   "homepage": "https://github.com/anuraghazra/github-readme-stats",
   "bugs": {
