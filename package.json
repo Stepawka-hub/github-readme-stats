@@ -8,7 +8,7 @@
     "cards",
     "card-generator"
   ],
-  "main": "./express.js",
+  "main": "src/index.js",
   "type": "module",
   "homepage": "https://github.com/anuraghazra/github-readme-stats",
   "bugs": {
@@ -66,7 +66,6 @@
     "axios": "^1.8.4",
     "dotenv": "^16.4.7",
     "emoji-name-map": "^1.2.8",
-    "express": "^5.1.0",
     "github-username-regex": "^1.0.0",
     "serverless-http": "^3.2.0",
     "upgrade": "^1.1.0",
